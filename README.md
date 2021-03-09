@@ -4,7 +4,7 @@
 ### Sobre mim:
 
 - Graduando em BC&T na UFABC :mortar_board:
- - O pato nada, corre e voa, mas não é bom em nada. Como programador esse sou eu. :duck:
+ - O pato nada, corre e voa, mas não é bom em nada. Como programador sou como o pato. :duck:
   - Estudando atualmente microservices architecture :honeybee:
   - Motivado pela satisfação de resolver problemas :hammer:
 
