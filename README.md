@@ -12,4 +12,3 @@
 
 _**Programar é uma arte**_ :art: :pencil: 
 
-.bg-purple-light
