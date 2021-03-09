@@ -14,4 +14,4 @@
 
 _**Programar é uma arte**_ :art: :pencil:
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
