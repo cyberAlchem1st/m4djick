@@ -1,7 +1,7 @@
 # Olá estranho,
 ## seja bem-vindo! 
 
-######Sobre mim:
+###### Sobre mim:
 
 - Graduando em BC&T na UFABC :mortar_board:
 - O pato nada, corre e voa, mas não é bom em nada. Como programador esse sou eu. :duck:
