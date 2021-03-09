@@ -1,4 +1,4 @@
-# Olá estranho, :space_invader:
+# Olá estranho, :alien:
 ## seja bem-vindo! 
 
 ### Sobre mim:
