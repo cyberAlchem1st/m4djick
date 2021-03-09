@@ -1,4 +1,4 @@
-# @@ Olá estranho, :alien:
+# Olá estranho, :alien:
 ## seja bem-vindo! 
 
 ### Sobre mim:
