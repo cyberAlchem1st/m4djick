@@ -1,4 +1,4 @@
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
 
 # Olá estranho, :alien:
 ## seja bem-vindo! 
@@ -14,4 +14,4 @@
 
 _**Programar é uma arte**_ :art: :pencil:
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
+![footer](https://capsule-render.vercel.app/api?section=footer)
