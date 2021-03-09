@@ -1,12 +1,12 @@
 # Olá estranho,
 ## seja bem-vindo! 
 
-###Sobre mim:
+######Sobre mim:
 
-*Graduando em BC&T na UFABC :mortar_board:
-*O pato nada, corre e voa, mas não é bom em nada. Como programador esse sou eu. :duck:
-*Estudando atualmente microservices architecture :honeybee:
-*Motivado pela satisfação de resolver problemas :persevere:
+- Graduando em BC&T na UFABC :mortar_board:
+- O pato nada, corre e voa, mas não é bom em nada. Como programador esse sou eu. :duck:
+- Estudando atualmente microservices architecture :honeybee:
+- Motivado pela satisfação de resolver problemas :persevere:
 
 >**Technê** se refere à capacidade de produzir um objeto por meios racionais. Muitos traduzem por artesanato ou arte. Mas technê também está na raiz do que hoje chamamos de >tecnologia. A idéia é que a construção de artefatos é uma arte criativa dos homens, e realiza-se através de uma combinação de conhecimento, prática e experimentação.
 >_**Programar é uma arte**_
