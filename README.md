@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
-# Olá estranho, :alien:
-## seja bem-vindo! 
+# Olá, estranho. :alien:
+## Seja bem-vindo! 
 
 ### Sobre mim:
 
